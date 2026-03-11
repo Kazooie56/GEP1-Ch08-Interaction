@@ -8543,7 +8543,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   debugEnabled: 0
-  promptText: {fileID: 0}
+  promptText: {fileID: 1321833734}
   prompt: 
   messageDuration: 3
   fadeOutTime: 0.5
